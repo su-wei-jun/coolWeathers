@@ -1,0 +1,11 @@
+<litepal>
+    <!--数据库名-->
+    <dbname value="cool_weathers"/>
+    <!--数据库版本。如果第一次数据库未创建成功，就要将数据库的版本增加1-->
+    <version value="1"/>
+    <list>
+        <mapping class="com.example.coolweathers.db.Province"/>
+        <mapping class="com.example.coolweathers.db.City"/>
+        <mapping class="com.example.coolweathers.db.County"/>
+    </list>
+</litepal>
