@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidSDk/platforms/android-32/data/res/layout/simple_list_item_1.xml" value="0.16354166666666667" />
+        <entry key="..\:/androidDemo/coolWeathers/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/androidDemo/coolWeathers/app/src/main/res/layout/choose_area.xml" value="0.1" />
         <entry key="..\:/androidDemo/coolWeathers/app/src/main/res/layout/litepal.xml" value="0.14895833333333333" />
       </map>
     </option>
